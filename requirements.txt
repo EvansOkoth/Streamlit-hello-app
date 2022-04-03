@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+pickle
+RandomForestClassifier
+train_test_split
